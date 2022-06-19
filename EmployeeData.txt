@@ -3,3 +3,4 @@ Employee id : 2233
 Employee salery : 44000
 Employee join date : 3 jully 2020
 Employee Post : java Developer
+Employee post_2 : Tester
